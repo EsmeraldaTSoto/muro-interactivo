@@ -1,3 +1,15 @@
+Esta es el proyecto final - Muro Interactivo de Esmeralda Soto 2024-1861, esta es la captura de pantalla.
+
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/2c5a743a-96fb-4314-bf2f-029c3f9448c2" />
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
